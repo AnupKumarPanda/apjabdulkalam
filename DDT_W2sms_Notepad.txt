@@ -1,0 +1,7 @@
+9666122271,valid,ramsjuly4,valid
+0166612227,invalid,ramsjuly4,valid
+9666122271,valid,ramsjul,invalid
+589745698,invalid,ramsjuly4,valid
+0166612227,invalid,ramsjuly5,invalid
+,invalid,ramsjuly4,valid
+9666122271,valid,,invalid
